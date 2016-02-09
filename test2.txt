@@ -3,3 +3,4 @@ hello git 2
 test3
 
 editor
+editor 2
