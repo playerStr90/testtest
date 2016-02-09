@@ -4,3 +4,4 @@ test3
 
 editor
 editor 2
+editor 3
