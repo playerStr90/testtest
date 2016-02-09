@@ -13,3 +13,4 @@ test_branch 4
 
 
 merge test 1
+merge test 2
