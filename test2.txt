@@ -5,4 +5,5 @@ test3
 editor
 editor 2
 editor newbranch1
+editor newbranch1 2
 editor 3
