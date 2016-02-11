@@ -3,6 +3,7 @@ hello git 2
 test3
 
 new_f 1
+lol branch master
 
 editor
 editor 2
