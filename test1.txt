@@ -1,3 +1,5 @@
+merge test 3
+l5 add
 1
 
 1
@@ -8,7 +10,17 @@
 
 test_branch
 test_branch 2
+test_branch 3
+test_branch 4
+
 
 merger test branch 1
 
 research branch
+merge test 1
+merge test 2
+1
+2
+3
+4
+test commit add

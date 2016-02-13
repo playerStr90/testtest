@@ -1,0 +1,12 @@
+hello git 1
+hello git 2
+test3
+
+new_f 1
+lol branch master
+
+editor
+editor 2
+editor newbranch1
+editor newbranch1 2
+editor 3
